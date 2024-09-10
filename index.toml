@@ -1,0 +1,130 @@
+hash-format = "sha256"
+
+[[files]]
+file = "go.mod"
+hash = "48df1b690e92a52a5b6bbc9a682edb20431aee5bd58c24042cd6aaf2082cb7f2"
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "4cf9caf335c87b4c4e8338006534ebc112a63b310c518807e13fbcfead166e05"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "f1a96a0fedba5714ee65167abd8b78f29c06956c692c988e819aee01fe3a95c2"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "76a7215e67b24c073f93e03d23a8f57d3481b7de7e1ce4dbeae33941146872b6"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "23d588988be35c25d09c3ef883e39bd1b570408cda2782dbe364f1efac0a1ab1"
+metafile = true
+
+[[files]]
+file = "mods/autotag.pw.toml"
+hash = "2d9de901d1e6682dd0dd9ec1898ca94190ba3cf987c4cb9880c58d0fc9001293"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "081797cb9b076763f0322ae5d6b4a345e203f9e9dbe7875c4b45cf585dbce212"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "120de82caaacab8c96f43b5fa0d1fa7ce490f4673e33d315cdbccb16e1610fb4"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "d2aa807906ac78a4f98d12ae7fef7e711fa4186e32ff5b1f451455d904889bba"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "c429009b58f253786cee08ea0ea08a2408e7aabc510cce613ea0142c5eaf7c6f"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "59d855563c5acb3c1c384c59dea8c767990ecbc7c54f80364cbbc4ee734a0400"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "5c477b0cd218ed14c178205ad498aa7f3eb1ec56444c2e760e0413e8d520c064"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ec94d9d2e209b8f19eab587ce504108784c80c42a97fcb90734bfd5afbbb89da"
+metafile = true
+
+[[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "fc46594484a752959952cd457e763e8937149bf1c3fa47b2adda58601039b8e1"
+metafile = true
+
+[[files]]
+file = "mods/jewelry.pw.toml"
+hash = "4d74dee694fa5acf6e1a89b82b41832368296faa260ec57e95640cdb73d4105b"
+metafile = true
+
+[[files]]
+file = "mods/libz.pw.toml"
+hash = "ab10f3e728805c9ec752366c5139db2596af31a4f699f4bec7a7d244bc7f4324"
+metafile = true
+
+[[files]]
+file = "mods/projectile-damage-attribute.pw.toml"
+hash = "c4237dabeb52539c94b76c895483c4cf63c1c92d8b5f633510b258d879020834"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "8f0f6445b6c7d6d52a301b8bbfb74bbe33917ece63fcd0eaaee21837965a7f7b"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "6ef98ea1944795367443a40cd033f9e109ed232b70c6082b9f707ee2e1c9e3cc"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "09122a6e8a894b0dfb12250ce7b00e887ee6fc0d06ec4ca7f7435fb503aeee1a"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "6bf6f6063b125dcda38458f5bd9f4ef47f65287e9614ae477495c7c5c338d36d"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "6473a85c20633584b9a97a635fa7fb6191f5beac5867e09aa321a23d9682c516"
+metafile = true
+
+[[files]]
+file = "mods/spellblades-and-such.pw.toml"
+hash = "8f7596d448d051e283174c1ebdeaae4fc05cc75d02b6b62bd54ac8691e7bb261"
+metafile = true
+
+[[files]]
+file = "mods/tieredz.pw.toml"
+hash = "bf2133fad332cee3a3c7037650f546592f7326398ad62033f2f4b3eff611033c"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "016342f77666fc8a237c0f78d18de595fde7b6658759f1a11afbf0e9680f468b"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "9438f5b3dd6e38e27605d20fee58414a9cdbcfe26994d83342aa3ad09a4870b1"
+metafile = true

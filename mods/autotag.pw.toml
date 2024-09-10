@@ -1,0 +1,13 @@
+name = "AutoTag"
+filename = "autotag-2.0.0+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8FdYDHF5/versions/VoyNngbb/autotag-2.0.0%2B1.19.jar"
+hash-format = "sha512"
+hash = "cf79536afdcb65947dc64b354fdc7ec1e0aaf4531cfefff5d8513a45323f3211a85088eb831833050047febd18904d5332cd67e4033e8043fa0ab24faac14048"
+
+[update]
+[update.modrinth]
+mod-id = "8FdYDHF5"
+version = "VoyNngbb"
