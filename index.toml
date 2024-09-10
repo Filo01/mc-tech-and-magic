@@ -30,6 +30,11 @@ hash = "2d9de901d1e6682dd0dd9ec1898ca94190ba3cf987c4cb9880c58d0fc9001293"
 metafile = true
 
 [[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "eb459ec69576a244cf672b593bb9a86dd7ff079e231ceefba766cfa19402295f"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "081797cb9b076763f0322ae5d6b4a345e203f9e9dbe7875c4b45cf585dbce212"
 metafile = true
@@ -42,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d2aa807906ac78a4f98d12ae7fef7e711fa4186e32ff5b1f451455d904889bba"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "228f88f617a86ab86702a8c6ea2672bd1b6ea2bbbccdebb1c9954e1e775b8275"
 metafile = true
 
 [[files]]
@@ -62,11 +72,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ec94d9d2e209b8f19eab587ce504108784c80c42a97fcb90734bfd5afbbb89da"
-metafile = true
-
-[[files]]
-file = "mods/hex-casting.pw.toml"
-hash = "fc46594484a752959952cd457e763e8937149bf1c3fa47b2adda58601039b8e1"
 metafile = true
 
 [[files]]
@@ -100,18 +105,13 @@ hash = "09122a6e8a894b0dfb12250ce7b00e887ee6fc0d06ec4ca7f7435fb503aeee1a"
 metafile = true
 
 [[files]]
-file = "mods/spell-engine.pw.toml"
-hash = "6bf6f6063b125dcda38458f5bd9f4ef47f65287e9614ae477495c7c5c338d36d"
-metafile = true
-
-[[files]]
 file = "mods/spell-power.pw.toml"
 hash = "6473a85c20633584b9a97a635fa7fb6191f5beac5867e09aa321a23d9682c516"
 metafile = true
 
 [[files]]
-file = "mods/spellblades-and-such.pw.toml"
-hash = "8f7596d448d051e283174c1ebdeaae4fc05cc75d02b6b62bd54ac8691e7bb261"
+file = "mods/terrablender.pw.toml"
+hash = "afd16568fa52efa7f143df655754611eeaae2dcb2ed47bae6d780bb691310232"
 metafile = true
 
 [[files]]
